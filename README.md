@@ -1,4 +1,4 @@
-# Olá! Eu sou o Christian Borges 👋
+# Olá! Eu sou Christian Borges 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianborges01/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:christianborges27@hotmail.com)
   
