@@ -38,6 +38,5 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em soluções web moder
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boorgees&show_icons=true&hide_title=true&count_private=true&hide=prs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boorgees&layout=compact&langs_count=6)
 
